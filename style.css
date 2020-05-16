@@ -1,0 +1,20 @@
+p{
+    height:100px;
+    width:100px;
+    background-color: black;
+}
+#dr{
+background-color: lawngreen;
+}
+#pia{
+background-color: lightcyan;
+}
+#si{
+background-color: magenta;
+}
+#os{
+opacity:40%;
+}
+#dz{
+opacity:10%;
+}
